@@ -1,0 +1,10 @@
+# My road-trip playlist. Each line: the mood, the minutes, then the title.
+chill 4 Highway Tea
+upbeat 3 Paper Lanterns
+chill 5 Window Down
+upbeat 4 Gas Station Sunrise
+
+singalong 5 Rainy Tuesday
+chill 6 Last Exit Waltz
+upbeat 3 Home by Dark
+singalong 4 All the Way to the Coast
